@@ -13,7 +13,7 @@ return {
         javascriptreact = {},
         typescriptreact = {},
         svelte = { "prettier" },
-        css = { "prettier" },
+        css = {},
         html = { "prettier" },
         json = { "prettier" },
         yaml = { "prettier" },
